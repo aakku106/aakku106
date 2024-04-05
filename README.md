@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  - I'm [Adarasha Gaihre], 
+  - I'm Adarasha Gaihre, 
   - a passionate IT student from Nepal 🇳🇵,
  - 📫 How to reach me: adarasha.gaihre106@gmail.com
  -  ⚡ Fun fact: i am in love  with  coding💻, drawing 🖌️, and anime 🦊. 
