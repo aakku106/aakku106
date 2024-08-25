@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
   - I'm Adarasha Gaihre, 
   - a passionate IT student from Nepal 🇳🇵,
- - 📫 How to reach me: adarasha.gaihre106@gmail.com
+ - 📫 How to reach me: adarasha.gaihre106@gmail.com , adarashagaihre.com.np
  -  ⚡ Fun fact: i am in love  with  coding💻, drawing 🖌️, and anime 🦊. 
