@@ -12,10 +12,16 @@
 
 # Hi there 👋 </br>
 - I'm Adarasha Gaihre,<br> - a passionate IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C++, Python
-
 </br>
 
+---
+
 # 💻 Tech Stack:
+
+<div align="center" >  
+
+
+ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,6 +37,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+
+</div>
+ 
+
 # 📊 GitHub Stats:
 
 <div>
@@ -49,8 +60,6 @@
   
 </div>
 
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@aadarasha106) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarasha_gaihre) 
@@ -61,7 +70,8 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Adarasha-Gaihre-the-decoder) 
 
 <div align="left">
-  
+
+ 
   ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aakku106&limit=5&theme=holi&combine_all_yearly_contributions=true)
 </div>
@@ -84,7 +94,16 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aakku106&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+
+<div align="center" >  
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
 </a>
+
+
+</div>
+
 ---
