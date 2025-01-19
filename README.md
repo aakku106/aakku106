@@ -1,6 +1,7 @@
  <div align="center"> 
    
-   [![](https://visitcount.itsvg.in/api?id=aakku106&icon=10&color=13)](https://visitcount.itsvg.in) 
+ <!--  [![](https://visitcount.itsvg.in/api?id=aakku106&icon=10&color=13)](https://visitcount.itsvg.in) -->
+   ![](https://komarev.com/ghpvc/?username=aakku106&abbreviated=true&base=400&label=PROFILE+VIEWS&style=for-the-badge)
    
  </div>
 <!--
@@ -123,6 +124,8 @@
 <br>
 
 <div align="center" >  
+ 
+   ![](https://komarev.com/ghpvc/?username=aakku106&abbreviated=true&base=400&label=PROFILE+VIEWS)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
