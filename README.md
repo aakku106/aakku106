@@ -64,6 +64,8 @@
 <div >
 
 ![](https://github-readme-stats.vercel.app/api?username=aakku106&theme=dark&hide_border=false&include_all_commits=false&count_private=false) </br>
+
+
   
 </div>
 <br>
@@ -136,6 +138,9 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
 </a>
+
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aakku106">
+
 
 
 </div>
