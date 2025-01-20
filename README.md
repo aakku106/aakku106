@@ -47,12 +47,14 @@
 
 <div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aakku106&theme=dark&hide_border=false)
+ <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=aakku106&theme=dark&hide_border=false) -->
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309" alt="GitHub Streak" /></a>
+ <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309" alt="GitHub Streak" /></a>  -->
+
 
   
 </div>
