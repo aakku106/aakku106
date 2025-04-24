@@ -3,6 +3,7 @@
  <!--  [![](https://visitcount.itsvg.in/api?id=aakku106&icon=10&color=13)](https://visitcount.itsvg.in) -->
    ![](https://komarev.com/ghpvc/?username=aakku106&abbreviated=true&base=400&label=PROFILE+VIEWS&style=for-the-badge)
    
+# Hi there 👋 </br>
  </div>
 <!--
   - I'm Adarasha Gaihre, 
@@ -11,7 +12,6 @@
  -  ⚡ Fun fact: i am in love  with  coding💻, drawing 🖌️, and anime 🦊. 
 -->
 
-# Hi there 👋 </br>
 - I'm Adarasha Gaihre,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C, Python
 </br>
 
