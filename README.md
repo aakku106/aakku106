@@ -141,7 +141,7 @@
   <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
 </a>
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aakku">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aakku106">
 
 
 
