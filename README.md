@@ -60,12 +60,12 @@
 </div>
 <div align="right">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakku106&theme=dark&border_radius=16&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakku106&theme=dark&border_radius=16&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
   
 </div>
 <div >
 
-![](https://github-readme-stats.vercel.app/api?username=aakku106&theme=dark&hide_border=false&border_radius=16&include_all_commits=false&count_private=false) </br>
+![](https://github-readme-stats.vercel.app/api?username=aakku106&theme=dark&hide_border=false&border_radius=16&include_all_commits=ture&count_private=true) </br>
 
 
   
