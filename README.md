@@ -137,11 +137,11 @@
  
    ![](https://komarev.com/ghpvc/?username=aakku106&abbreviated=true&base=400&label=PROFILE+VIEWS)
 
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aakku106&label=Profile%20Views&icon=5&pretty=true" />
-</a>
+</a> -->
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aakku106">
+<!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aakku106"> -->
 
 
 
