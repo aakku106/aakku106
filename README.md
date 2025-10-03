@@ -51,7 +51,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&border_radius=16&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309)](https://git.io/streak-stats)
 
  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309" alt="GitHub Streak" /></a>  -->
 
@@ -60,12 +60,12 @@
 </div>
 <div align="right">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakku106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakku106&theme=dark&border_radius=16&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
   
 </div>
 <div >
 
-![](https://github-readme-stats.vercel.app/api?username=aakku106&theme=dark&hide_border=false&include_all_commits=false&count_private=false) </br>
+![](https://github-readme-stats.vercel.app/api?username=aakku106&theme=dark&hide_border=false&border_radius=16&include_all_commits=false&count_private=false) </br>
 
 
   
@@ -100,7 +100,7 @@
 
  
   ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aakku106&limit=5&theme=holi&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=aakku106&limit=5&theme=holi&combine_all_yearly_contributions=true&border_radius=16)
 </div>
 
 <br/>
@@ -125,7 +125,7 @@
 <div align="center" >
 
 
-![](https://github-profile-trophy.vercel.app/?username=aakku106&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aakku106&theme=radical&border_radius=16&no-frame=false&no-bg=false&margin-w=4)
 
 
  
