@@ -55,7 +55,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&border_radius=16&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&border_radius=16&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309)](https://github.com/aakku106)
 
  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aakku106&theme=dark&hide_border=true&short_numbers=true&fire=63EB13&stroke=4921EB&background=45%2C060741%2C411309" alt="GitHub Streak" /></a>  -->
 
@@ -147,6 +147,7 @@
 
 <!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=aakku106"> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Adarasha+Gaihre+(aakku)+|+IT+Student+from+Nepal)](https://github.com/aakku106)
 
 
 </div>
