@@ -7,14 +7,9 @@
    <br>
 
  </div>
-<!--
-  - I'm Adarasha Gaihre, 
-  - a passionate IT student from Nepal 🇳🇵,
- - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np/
- -  ⚡ Fun fact: i am in love  with  coding💻, drawing 🖌️, and anime 🦊. 
--->
 
-- I'm Adarasha Gaihre,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  C#, C, Python, Js, Next
+
+- I'm Adarasha Gaihre,<br> -  IT student from Nepal 🇳🇵,<br> - 📫 How to reach me: adarasha.gaihre106@gmail.com , www.adarashagaihre.com.np<br> - ⚡ Fun fact: i am in love with 🦚: coding💻, drawing 🖌️, and Watching anime 🦊.<br> - 🌱 I’m currently learning  Go, C, Python, Next
 </br>
 
 ---
